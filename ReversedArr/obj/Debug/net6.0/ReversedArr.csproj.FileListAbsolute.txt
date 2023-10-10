@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\bin\Debug\net6.0\ReversedArr.exe
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\bin\Debug\net6.0\ReversedArr.deps.json
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\bin\Debug\net6.0\ReversedArr.runtimeconfig.json
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\bin\Debug\net6.0\ReversedArr.dll
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\bin\Debug\net6.0\ReversedArr.pdb
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\obj\Debug\net6.0\ReversedArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\obj\Debug\net6.0\ReversedArr.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\obj\Debug\net6.0\ReversedArr.AssemblyInfo.cs
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\obj\Debug\net6.0\ReversedArr.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\obj\Debug\net6.0\ReversedArr.dll
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\obj\Debug\net6.0\refint\ReversedArr.dll
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\obj\Debug\net6.0\ReversedArr.pdb
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\obj\Debug\net6.0\ReversedArr.genruntimeconfig.cache
+C:\Users\royal\source\repos\ReversedArr\ReversedArr\obj\Debug\net6.0\ref\ReversedArr.dll
